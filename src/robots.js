@@ -1,58 +1,58 @@
 export const robots = [
   {
-    id: '1',
-    name: '1 ',
-    username: '',
-    email: ''
+    id: "MJK",
+    name: 'Mohal Lal ',
+    username: 'MJK',
+    email: '9419255093'
   },
   {
-    id: '2',
-    name: '2',
-    username: '',
-    email: ''
+    id: "R&D",
+    name: 'Rani Devi',
+    username: 'R&D',
+    email: '9796219926'
   },
   {
-    id: '3',
-    name: '3',
-    username: '',
-    email: ''
+    id: "yashika__sharma",
+    name: 'Yashika Sharma',
+    username: 'yashika__sharma',
+    email: '9418966315'
   },
   {
-    id: '4',
-    name: '4',
+    id: "KT",
+    name: 'Kavita Agnihotri',
     username: 'KT',
-    email: ''
+    email: '6006341521'
   },
   {
-    id: '5',
-    name: '5',
-    username: '',
-    email: ''
+    id: "aagnihotri_",
+    name: 'Aknush Agnihotri',
+    username: 'aagnihotri_',
+    email: '9149521578'
   },
   {
-    id: '6',
-    name: '6',
-    username: '',
-    email: '',
-   
+    id: "_pre_et",
+    name: 'Preeti Agnihotri',
+    username: '_pre_et',
+    email: '9149630992',
+    cell: 'preetiagnihotri13@gmail.com'
   },
   {
-    id: 'shimbhat',
-    name: '7',
-    username: '',
-    email: '',
-    
+    id: "shimbhat",
+    name: 'Satyam Bhat',
+    username: 'shimbhat',
+    email: '8492848258',
+    cell: 'satyamshim@gmail.com'
   },
   {
-    id: '6',
-    name: '8',
-    username: '',
-    email: '',
+    id: "__harrsh_",
+    name: 'Harsharan Singh Raina',
+    username: '__harrsh_',
+    email: '7006001507',
   },
   {
-    id: '7',
-    name: '9',
-    username: '',
+    id: "nehamarch2",
+    name: 'Neha Kashyap',
+    username: 'nehamarch2',
     email: 'Working On It!'
   }
 ];
