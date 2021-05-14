@@ -1,57 +1,57 @@
 export const robots = [
   {
     id: '1',
-    name: 'Manoj Kumar ',
+    name: '1 ',
     username: '',
     email: ''
   },
   {
     id: '2',
-    name: 'Rani Devi',
+    name: '2',
     username: '',
     email: ''
   },
   {
     id: '3',
-    name: 'Yashika Sharma',
+    name: '3',
     username: '',
     email: ''
   },
   {
     id: '4',
-    name: 'Kavita Agnihotri',
+    name: '4',
     username: 'KT',
     email: ''
   },
   {
     id: '5',
-    name: 'Aknush Agnihotri',
+    name: '5',
     username: '',
     email: ''
   },
   {
     id: '6',
-    name: 'Preeti Agnihotri',
+    name: '6',
     username: '',
     email: '',
    
   },
   {
     id: 'shimbhat',
-    name: 'Satyam Bhat',
+    name: '7',
     username: '',
     email: '',
     
   },
   {
     id: '6',
-    name: 'Harsharan Singh Raina',
+    name: '8',
     username: '',
     email: '',
   },
   {
     id: '7',
-    name: 'Neha Kashyap',
+    name: '9',
     username: '',
     email: 'Working On It!'
   }
