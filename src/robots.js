@@ -1,58 +1,58 @@
 export const robots = [
   {
-    id: 'Daddy',
+    id: '1',
     name: 'Manoj Kumar ',
-    username: 'Daddy',
-    email: '9419255093'
+    username: '',
+    email: ''
   },
   {
-    id: 'Mom',
+    id: '2',
     name: 'Rani Devi',
-    username: 'Mom',
-    email: '9796219926'
+    username: '',
+    email: ''
   },
   {
-    id: 'yashika__sharma',
+    id: '3',
     name: 'Yashika Sharma',
-    username: 'yashika__sharma',
-    email: '9418966315'
+    username: '',
+    email: ''
   },
   {
-    id: 'KT',
+    id: '4',
     name: 'Kavita Agnihotri',
     username: 'KT',
-    email: '6006341521'
+    email: ''
   },
   {
-    id: 'aagnihotri_',
+    id: '5',
     name: 'Aknush Agnihotri',
-    username: 'aagnihotri_',
-    email: '9149521578'
+    username: '',
+    email: ''
   },
   {
-    id: '_pre_et',
+    id: '6',
     name: 'Preeti Agnihotri',
-    username: '_pre_et',
-    email: '9149630992',
+    username: '',
+    email: '',
    
   },
   {
     id: 'shimbhat',
     name: 'Satyam Bhat',
-    username: 'shimbhat',
-    email: '7889898611',
+    username: '',
+    email: '',
     
   },
   {
-    id: '__harrsh_',
+    id: '6',
     name: 'Harsharan Singh Raina',
-    username: '__harrsh_',
-    email: '7006001507',
+    username: '',
+    email: '',
   },
   {
-    id: 'nehamarch2',
+    id: '7',
     name: 'Neha Kashyap',
-    username: 'nehamarch2',
+    username: '',
     email: 'Working On It!'
   }
 ];
